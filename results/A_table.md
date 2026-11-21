@@ -1,0 +1,7 @@
+| method | success_rate | mean_steps | mean_return | collision_rate | episodes_to_converge | final_100_ep_return |
+|---|---|---|---|---|---|---|
+| Value Iteration | 1.000 | 14.00 | 87.00 | 0.000 | 15 sweeps |  |
+| Policy Iteration | 1.000 | 14.00 | 87.00 | 0.000 | 4 improv. |  |
+| Q-Learning | 1.000 | 14.00 | 87.00 | 0.000 | 142.00 ± 12.29 | 82.32 ± 0.53 |
+| SARSA | 1.000 | 14.00 | 87.00 | 0.000 | 157.50 ± 17.50 | 82.69 ± 0.56 |
+| Monte Carlo | 1.000 | 14.60 ± 0.92 | 86.40 ± 0.92 | 0.000 | 381.00 ± 528.86 | 80.32 ± 1.54 |
