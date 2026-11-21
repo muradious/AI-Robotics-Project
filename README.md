@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI630 Project — Intelligent Autonomous Robot Navigation (Planning + Reinforcement Learning)
 
 A grid-world robot that must get from the top-left to the bottom-right while avoiding obstacles.
@@ -122,3 +123,6 @@ the ESP32 sketch follows tape lines between crossings, executes the policy, and 
 when its ultrasonic sensor finds an obstacle that was not on the map.
 The planner code that runs on the ESP32 is tested on a PC against the Python implementation; the motor/sensor code
 has **not** been run on real hardware yet.
+=======
+# AI-Robotics-Project
+>>>>>>> 98b442c3c1d10fe340d7614965b082ea9c4009bc
